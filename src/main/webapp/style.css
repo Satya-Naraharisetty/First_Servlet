@@ -4,3 +4,8 @@
     text-align: center;
     color: aliceblue;
 }
+table{
+    border-collapse: collapse;
+    align-content: center;
+    align-items: center;
+}
